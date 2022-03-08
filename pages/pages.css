@@ -30,10 +30,10 @@ body{
     align-items: center;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.301);
     border-radius: 16px;
-    height: 550px;
-    width: 600px;
     background-color: white;
     font-size: 2em;
+    height: 40%;
+    width: 34%;
 }
 .text{
     padding: 16px;
