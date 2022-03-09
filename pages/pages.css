@@ -20,7 +20,15 @@ body{
     text-decoration: none;
 }
 .button{
-    padding: 8px;
+    padding: 18px;
+    color: black;
+    border: none;
+    cursor: pointer;
+    background-color: #b4b4b4;
+    transition: 350ms;
+}
+.button:hover{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.301);
 }
 
 .text-container{
